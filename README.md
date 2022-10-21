@@ -1,1 +1,1 @@
-# GutHubRepo
+# GitHubRepo
