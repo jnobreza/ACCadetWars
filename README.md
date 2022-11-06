@@ -1,4 +1,4 @@
-##Cadet Wars AC
+### Cadet Wars AC
 
 Fruit Ninja inspired game, made at Academia de Código bootcamp with a team
 We've worked with simple graphics library provided by Academia which was a challenge to work with mainly because the mouse was malfunctioning
