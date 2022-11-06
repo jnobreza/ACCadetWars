@@ -1,1 +1,1 @@
-# GitHubRepo
+# GitHubCadetWarsRepo
